@@ -174,7 +174,7 @@ An interactive Power BI dashboard has been developed to consolidate data from mu
 
 ## 👤 Contributor  
 
-- Parth Prakashkumar Rana] (https://github.com/Parth851) 🚀 – Project Lead, Developer & Data Analyst  
+- Parth Prakashkumar Rana (https://github.com/Parth851) 🚀 – Project Lead, Developer & Data Analyst  
 
 <br>
 
