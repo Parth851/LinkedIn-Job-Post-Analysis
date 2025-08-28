@@ -1,34 +1,45 @@
-#  <img src=https://user-images.githubusercontent.com/55955478/235878802-1c423764-f355-47b0-b926-f9380334defd.png height=48 width=48> LINKEDIN JOBS ANALYSIS
+#  <img src=https://user-images.githubusercontent.com/55955478/235878802-1c423764-f355-47b0-b926-f9380334defd.png height=48 width=48> LINKEDIN JOB POST ANALYSIS 📊💼
 <img src=https://user-images.githubusercontent.com/55955478/235868102-52317ba3-5e46-44cd-bc4c-7603f059b8af.png height=300 width=1200>
 <br> 
 
-This repository presents an end-to-end analysis of LinkedIn's professional networking platform's Jobs section. The project aims to extract over 500 job details from LinkedIn's website using the Python library, Selenium, and organize the information into specific formats by creating three tables. Additionally, the project involved data cleaning and exploratory data analysis using Pandas and Numpy libraries. MySQL and MS-Excel were utilized to derive insights from the dataset. Power BI was used to visualize the results. Finally, a web page was created to present relevant job information based on the skills listed in the dataset. The page was hosted on the cloud for wider access.
+This repository presents an end-to-end analysis of LinkedIn's professional networking platform's Jobs section 🔍. The project aims to extract over 500 job details 🧑‍💻 from LinkedIn's website using Python (Selenium) 🐍 and organize the information into structured formats 📑 by creating three tables.
+
+Additionally, the project involved data cleaning 🧹 and exploratory data analysis 📊 using Pandas and NumPy. MySQL 🗄️ and MS-Excel 📘 were utilized to derive insights from the dataset. Power BI 📈 was used to visualize the results. Finally, a web page 🌐 was created to present relevant job information based on the skills listed in the dataset and hosted on the cloud ☁️ for wider access.
 
 
 <br>
 
 
-## <img src=https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif height=50 width=50 >  User's Manual
+## <img src=https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif height=50 width=50 >  User's Manual 📖
 
-|Files | Description |
-|-----|--------|
-| Data-Cleaning | This folder contains files and scripts specifically dedicated to the process of cleaning raw data |
-| Data-Scrapping | This folder contains files and scripts designed to extract data from Linekdin's Jobs Section |
-| Data-Visualization | This folder contains files and scripts that focus on creating visual representations of data in PowerBI |
-| Dataset |  The dataset folder serves as a central location for storing and managing the data used in the project |
-| Exploratory Data Analysis | This folder contains files and scripts dedicated to exploring the patterns present in a given dataset |
-| Web-Page | This folder contains files and resources related to the development of a web page or website |
-| README.md | This is a readme file of this repositary |
+| 📂 Files                     | 📌 Description                                           |
+| ---------------------------- | -------------------------------------------------------- |
+| 🧹 Data-Cleaning             | Contains files and scripts for cleaning raw data         |
+| 🕸️ Data-Scrapping           | Scripts for extracting data from LinkedIn's Jobs Section |
+| 📊 Data-Visualization        | Scripts for visualizing data in Power BI                 |
+| 📁 Dataset                   | Central location for storing project data                |
+| 🔎 Exploratory Data Analysis | Files/scripts for analyzing dataset patterns             |
+| 🌐 Web-Page                  | Files/resources for web page development                 |
+| 📜 README.md                 | Main documentation file of the repository                |
+
 
 <br>
 
-## <img src=https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif height=48 width=48> Tools & Technology Used:
+## <img src=https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif height=48 width=48> Tools & Technology Used 🛠️💻:
 ![image](https://user-images.githubusercontent.com/55955478/235897588-756e9ed4-33b3-45f6-83c8-4f68988fe8ba.png)
 
 
 <br>
 
-## <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif height=48 width=48> Methodology:
+## <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif height=48 width=48> Methodology 🧩:
+
+1️⃣ Implemented web scraping 🕷️ using Selenium to extract job details.
+
+2️⃣ Used Pandas & NumPy 📊 for Data Cleaning & EDA, storing processed data in MySQL 🗄️.
+
+3️⃣ Applied SQL queries (GROUP BY, ORDER BY, HAVING, CASE-WHEN) 📝 for insights extraction.
+
+4️⃣ Developed a dynamic web page 🌐 showcasing job listings categorized by skills.
 
 1. Implemented web scraping on the LinkedIn jobs section using the Python library Selenium. Leveraged its capabilities to extract and retrieve the following attributes from the job listings:
 
@@ -58,7 +69,7 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 
 <br>
 
-# Data Cleaning ( few code snippets )
+# 🧹 Data Cleaning ( few code snippets )
 
 ## 1. Removing Noise from Employee_count Column
 <img src=https://github.com/singhrahul7874/LinkedinJobAnalysis/assets/55955478/718aefe1-f4b7-479f-b4ab-242d43708ef0 height=300 width=700>
@@ -74,7 +85,11 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 <br>
   
   
-## <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif height=48 width=48> Results/Insights:
+## <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif height=48 width=48> Results/Insights 💡:
+
+1️⃣ Job opportunities 🔍 aligned with skills 📌.
+2️⃣ Distribution of job availability 📊 across categories.
+3️⃣ Job openings categorized by involvement type 🕒.
 
 1. The visual provides an overview of job opportunities that specifically require a particular skill set. It showcases the correlation between specific skills and the corresponding job positions available in the market. The visual aims to highlight the demand for expertise in certain areas and serves as a valuable resource for individuals seeking employment opportunities aligned with their skill sets.
 
