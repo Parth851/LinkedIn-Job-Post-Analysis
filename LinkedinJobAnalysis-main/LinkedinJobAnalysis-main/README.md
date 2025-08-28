@@ -158,16 +158,27 @@ An interactive Power BI dashboard has been developed to consolidate data from mu
   
 <br>
   
-## <img src=https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif height=50 width=50> Conclusions:
+## <img src=https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif height=50 width=50> Conclusions 📝✨
   
-  1. Most jobs are being posted by small-size Companies but applicants are apprently applying in Large-size Companies.
-  2. Most applicants are applying in Chennai based companies, but more jobs are there in Mumbai and Bangalore based companies
-  3. Significantly higher number of applicants in large and small size companies as compared to medium size companies
-  4. Top three states with maximum job openings are Tamil Nadu, Karnataka and Maharastra.
-  5. Digital marketing has the most opportunities
-  6. About half of the total openings are in IT industry
-  7. AI is most required skills.
+1. Most jobs are being posted by **small-size companies 🏢**, but applicants are apparently applying more to **large-size companies 🏙️**.  
+2. Most applicants are applying in **Chennai 🏠**, but more jobs are available in **Mumbai 🏙️** and **Bangalore 🌆**.  
+3. Significantly higher number of applicants in **large 🏢** and **small 🏠** size companies compared to **medium-size companies 🏬**.  
+4. Top three states with maximum job openings are **Tamil Nadu 📍, Karnataka 📍, and Maharashtra 📍**.  
+5. **Digital Marketing 📢** has the most opportunities.  
+6. About **half (50%) 📊** of the total openings are in the **IT industry 💻**.  
+7. **AI 🤖** is the most required skill.  
+
 <br>
 
-## Check out live Demo of the Project: [Linkedin_Jobs_analysis](https://symphonious-chebakia-974445.netlify.app/index.html)
+<br>
+
+## 👤 Contributor  
+
+- [Parth Rana]((https://github.com/Parth851)) 🚀 – Project Lead, Developer & Analyst  
+
+<br>
+
+
+
+
   
